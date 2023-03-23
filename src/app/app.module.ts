@@ -13,7 +13,6 @@ import { SharedModule } from './shared/shared.module';
     AppComponent,
   ],
 
-
   // aqui se importa todos los modulos de los componentes
   imports: [
     BrowserModule,
